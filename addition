@@ -2,7 +2,7 @@
 #include<conio.h>
 int main()
 {
-    int num1, num2, res;
+    int num1, res;
     printf("Enter any two number: ");
     scanf("%d%d", &num1, &num2);
     res = num1+num2;
