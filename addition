@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()  
+{  
+    int num1, num2;  
+    int sum, sub, mult, mod;  
+    printf("Input any two numbers separated by comma : ");  
+    scanf("%d,%d", &num1, &num2);  
+  
+   }
